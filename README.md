@@ -26,4 +26,4 @@ The city of Worcester provides various online resources for mental health data. 
 Microsoft Excel, Tableau 
 
 # Contributors
-William Fitzpatrick, Adry Sanchez, Aswira Pasha, Gurpreet Singh 
+Michael Tice, William Fitzpatrick, Adry Sanchez, Aswira Pasha, Gurpreet Singh 
